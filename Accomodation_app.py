@@ -69,7 +69,7 @@ st.write("""
 
 This app predicts the **Prices of UNN Lodges** based on the choices of the user.
 
-Data obtained from a  [survey](https://github.com/allisonhorst/palmerpenguins) carried out in **UNN by 0'25 IT students of Education Innovation Unit**.
+Data obtained from a  [survey](https://github.com/Francis-147/UNN-lodge-price-pred/blob/9d7491dd005d6f9b7f31f38ad834b68df0d82b51/Lodge%20Rent(Cleaned).csv) carried out in **UNN by 0'25 IT students of Education Innovation Unit**.
 """)
 
 st.subheader("Input Lodge Description")
